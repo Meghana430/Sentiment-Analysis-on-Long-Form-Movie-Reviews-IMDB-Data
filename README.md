@@ -19,7 +19,7 @@ This project aims to develop a machine learning model to analyze comments on mov
 ### Data Preprocessing
 - Clean and preprocess the dataset to ensure high data quality.
 
-### Text Vectorization Techniques
+### Text Vectorization Technique
 - **Bag of Words**
 - **TF-IDF**
 - **N-gram**
