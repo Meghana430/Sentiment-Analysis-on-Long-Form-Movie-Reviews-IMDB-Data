@@ -1,7 +1,7 @@
 # 🎬 Movie Sentiment Analysis Project
 
 ## 📝 Project Overview
-This project aims to develop a machine learning model to analyze comments on movie trailers and predict sentiment as either positive or negative. Our objective is to provide movie studios, OTT platforms, and distributors with real-time sentiment analysis to tailor marketing strategies and PR campaigns more effectively
+This project aims to develop a machine learning model to analyze comments on movie trailers and predict sentiment as either positive or negative. Our objective is to provide movie studios, OTT platforms, and distributors with real-time sentiment analysis to tailor marketing strategies and PR campaigns more effectively.
 ## 🔍 Problem Statement
 - Movie studios, OTT platforms, and distributors struggle to gauge accurate audience sentiment towards movies using traditional methods, which are often time-consuming and lack real-time insights
 
